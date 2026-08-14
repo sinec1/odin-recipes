@@ -1,15 +1,12 @@
 body {
     background: rgb(63, 62, 62);
     font-family: Verdana, sans-serif;
-    color:aliceblue
+    color:aliceblue;
+    width:fit-content;
 }
 
 a {
     color:rgb(217, 185, 255);
-}
-
-#title{
-    color: aliceblue;
 }
 
 img {
