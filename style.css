@@ -1,0 +1,17 @@
+body {
+    background: rgb(63, 62, 62);
+    font-family: Verdana, sans-serif;
+    color:aliceblue
+}
+
+a {
+    color:rgb(217, 185, 255);
+}
+
+#title{
+    color: aliceblue;
+}
+
+img {
+    width:250px;
+}
